@@ -7,7 +7,7 @@ This project analyzes Airbnb listing performance using Tableau Public. The focus
 - Designed a **Map Visualization (Price per Zipcode)** to show geographic distribution of pricing.
 - Created a **Line Chart (Revenue per Year)** to track seasonal revenue trends.
 - Developed a **Bar Chart (Average Price per Bedroom)** to analyze how prices scale with property size.
-- Added a **Distinct Count of Bedrooms** chart to show listing distribution by property size. - Imported Airbnb datasets and performed an **inner join** between Listings and Calendar tables using `listing_id`.
+- Added a **Distinct Count of Bedrooms** chart to show listing distribution by property size.
 
 ## 🛠️ Tools & Skills Demonstrated 
 - **Tableau Public** for interactive dashboards.
