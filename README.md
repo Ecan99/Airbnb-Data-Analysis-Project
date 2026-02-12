@@ -1,4 +1,6 @@
-# Airbnb-Data-Analysis-Project ![Dashboard](Review.png)
+# Airbnb-Data-Analysis-Project
+An end‑to‑end Tableau project analyzing Airbnb pricing, revenue, and geographic trends.
+![Dashboard](Review.png)
 This project analyzes Airbnb listing performance using Tableau Public. The focus was on understanding pricing trends, revenue patterns, and geographic distribution of listings.
 
 ## 📈 Project Highlights 
